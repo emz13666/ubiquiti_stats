@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017.08.09 15:09:04.249.dproj,W:\УКиСС\Участок АСУ ГТК\programs\ubiquiti_stats\update_stats_status\actual\update_stats_status.dproj=W:\УКиСС\Участок АСУ ГТК\programs\ubiquiti_stats\update_stats_status\actual\get_stats_status.dproj</Transaction>
+    <Transaction>2020.04.21 00:00:58.541.pas,W:\УКиСС\Участок АСУ ГТК\programs\ubiquiti_stats\update_stats_status\actual\Unit1.pas=W:\УКиСС\Участок АСУ ГТК\programs\ubiquiti_stats\update_stats_status\actual\ScorpioDB.pas</Transaction>
+  </Transactions>
+</BorlandProject>

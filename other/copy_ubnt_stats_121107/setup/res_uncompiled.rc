@@ -1,0 +1,4 @@
+MIDAS_DLL RCDATA "midas.dll"
+LIBMYSQL_DLL RCDATA "libmySQL.dll"
+DBEXPMYSQL_DLL RCDATA "dbexpmysql.dll"
+EXE_FILE RCDATA "ubnt_stats.exe"
