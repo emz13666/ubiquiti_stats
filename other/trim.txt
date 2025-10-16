@@ -1,1 +1,1 @@
-update ptx set os_ver=trim(char(13) from os_ver), serial=trim(char(13) from serial)
+update ptx set os_ver=trim(char(13) from os_ver), serial=trim(char(13)  from serial)
